@@ -1,0 +1,59 @@
+body{
+	background: #222222
+}
+
+#r1{
+    background-image: url("http://www.planwallpaper.com/static/images/6790904-free-background-wallpaper.jpg");
+    height: 100px;
+    padding-left: 37px;
+    padding-top: 6px;
+}
+
+img{
+	height: 86px;
+}
+
+#c1{
+	background: #222222;
+	color: #616161;
+	height: 2000px;
+	padding-top: 50px;
+	padding-left: 30px;
+	font-size: 18px;
+}
+#c2{
+	background: #2f2f2f;
+	height: 2000px;
+}
+
+#lst{
+	 margin-bottom: 20px;
+	}
+
+#i1{
+	height: 856px;
+	width: 1448px;
+}
+
+#head{
+	font-size: 35px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+    color: #b7b7b7;
+    font-family: sans-serif;
+}
+
+#text{
+	font-size: 20px;
+	color: white;
+}
+
+#im{
+	height: 150px;
+	width: 150px;
+}
+
+#r4{
+	height: 100px;
+	background: black;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "akshay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cowsay": "^1.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"home.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
