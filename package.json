@@ -8,7 +8,7 @@
   },
 
   "scripts": {
-    "start":"home.js"
+    "start":"test.js"
   },
   "author": "",
   "license": "ISC"
